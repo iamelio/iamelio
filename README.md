@@ -1,7 +1,7 @@
 <h3 align="left">
   Hey :)
   <img
-    src="https://raw.githubusercontent.com/daoxve/daoxve/main/gifs/wave.gif"
+    src="https://raw.githubusercontent.com/iamelio/iamelio/main/gifs/wave.gif"
     width="25px"
     height="25px"
   />
@@ -12,7 +12,7 @@
   I'm...
 </h2>
 
- ![Dai's Github Stats](https://gist.githubusercontent.com/daoxve/b9cb71e081cfb66fc023e4dbf9337d2c/raw/metrics.svg)
+ ![Elio's Github Stats](https://gist.githubusercontent.com/iamelio/b9cb71e081cfb66fc023e4dbf9337d2c/raw/metrics.svg)
  
 
 - ⚡️ Currently working on Sypha
@@ -20,4 +20,4 @@
 - 🧑‍💻 Contributing on open-source projects
 - ☕️ Learning Rust
 
- ![:daoxve](https://moco.yukata.dev/get/@daoxve?theme=rule34)
+ ![:iamelio](https://moco.yukata.dev/get/@iamelio?theme=rule34)
